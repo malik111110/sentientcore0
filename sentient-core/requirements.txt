@@ -19,3 +19,4 @@ streamlit
 fpdf
 aiohttp
 python-dotenv
+filelock>=3.20.3 # not directly required, pinned by Snyk to avoid a vulnerability
